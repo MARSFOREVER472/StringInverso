@@ -1,2 +1,2 @@
 # String-Inverso
-INVERTIR STRING EN JavaScript!
+Invertir STRING EN JavaScript!
