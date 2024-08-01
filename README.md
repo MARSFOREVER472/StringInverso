@@ -1,3 +1,3 @@
-# String-Inverso
+# _String-Inverso_
 
 ## Invertir String en JavaScript!
