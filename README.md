@@ -8,4 +8,4 @@
 
 - **_Los algoritmos mediante Javascript nos sirven para practicar un poco más todos nuestros conocimientos de un lenguaje y aprender a resolver pequeños aceritjos de maneras distintas._**
 
-- _En este proyecto te mostraremos 8 maneras distintas de invertir el ordenamiento de una cadena de texto utilizando Javascript._
+- **_En este proyecto te mostraremos 8 maneras distintas de invertir el ordenamiento de una cadena de texto utilizando Javascript._**
