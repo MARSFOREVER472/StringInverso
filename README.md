@@ -4,4 +4,4 @@
 
 ### **_Cómo escribir una cadena del revés usando Javascript:_**
 
-- _Cómo invertir el orden de un string y/o una cadena de texto utilizando Javascript._
+- **_Cómo invertir el orden de un string y/o una cadena de texto utilizando Javascript._**
