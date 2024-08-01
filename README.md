@@ -2,4 +2,4 @@
 
 ## **_Invertir un "String" cualquiera en JavaScript!_**
 
-Cómo escribir una cadena del revés en Javascript:
+Cómo escribir una cadena del revés usando Javascript:
