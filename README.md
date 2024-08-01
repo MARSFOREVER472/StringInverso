@@ -6,4 +6,4 @@
 
 - **_Cómo invertir el ordenamiento de un "string" y/o una cadena de texto utilizando Javascript._**
 
-- Los algoritmos mediante Javascript nos sirven para practicar un poco más todos nuestros conocimientos de un lenguaje y aprender a resolver aceritjos de diferentes maneras.
+- Los algoritmos mediante Javascript nos sirven para practicar un poco más todos nuestros conocimientos de un lenguaje y aprender a resolver aceritjos de maneras distintas.
