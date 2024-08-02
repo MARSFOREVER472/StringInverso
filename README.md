@@ -16,4 +16,4 @@
 
 - **_En los algoritmos presentados en este vídeo se utiliza algunas técnicas de Javascript, como por ejemplo, las creación de funciones, Arrow Functions, bucles for y for of, spread operator, reduce, entre otras técnicas._**
 
-- **_Si alguna vez te has preguntado en cómo se hace para invertir el orden de las palabras en un string, entonces ya tienes 8 posibles respuestas o soluciones a este tipo de problemas._**
+- **_Si alguna vez te has preguntado en cómo se hace para invertir el orden de las palabras en un string, entonces ya tienes 8 posibles respuestas y/o soluciones a este tipo de problemas._**
