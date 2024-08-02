@@ -12,4 +12,4 @@
 
 - **_Es decir, crearemos un efecto de string y/o cadena inversa, en donde sus caracteres se escriben al revés y/o en orden inverso._**
 
-**_Ejemplos de programas creados utilizando Javascript._**
+- **_Ejemplos de programas creados utilizando Javascript._**
