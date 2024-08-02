@@ -14,4 +14,4 @@
 
 - **_Ejemplos de programas creados utilizando Javascript._**
 
-- _En los algoritmos presentados en este vídeo se utiliza algunas técnicas de Javascript, como por ejemplo, las creación de funciones, Arrow Functions, bucles for y for of, spread operator, reduce, entre otras técnicas._
+- **_En los algoritmos presentados en este vídeo se utiliza algunas técnicas de Javascript, como por ejemplo, las creación de funciones, Arrow Functions, bucles for y for of, spread operator, reduce, entre otras técnicas._**
