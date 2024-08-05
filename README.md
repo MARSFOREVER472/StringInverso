@@ -10,7 +10,7 @@
 
 - **_En este proyecto te mostraremos 8 maneras distintas de invertir el ordenamiento de una cadena de texto utilizando Javascript._**
 
-- **_Es decir, crearemos un efecto de string y/o cadena inversa, en donde sus caracteres se escriben al revés y/o en orden inverso._**
+- **_Es decir, crearemos un efecto de string y/o cadena inversa, en donde sus caracteres se deben de escribir al revés y/o en orden inverso._**
 
 - **_Ejemplos de programas creados utilizando Javascript._**
 
